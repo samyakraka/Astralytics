@@ -114,7 +114,7 @@ Astralytics is a cutting-edge social media analytics platform that revolutionize
 
 
 ## 👥 **Collaborators**  
-- @https://github.com/vedantdeore
+- https://github.com/vedantdeore
 - https://github.com/samyakraka
 - https://github.com/riteshborse
 - https://github.com/satyajitshinde112
