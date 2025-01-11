@@ -1,0 +1,7 @@
+postid,posttype,postedat,likes,comments,shares,saves,captionlength,hashtagscount,posthour,totalengagement,engagementrate
+1,Photo,2024-03-01T09:00:00,1200,45,30,20,150,5,9,1295,4.2
+2,Video,2024-03-02T14:30:00,2500,120,80,45,200,7,14,2745,6.8
+3,Carousel,2024-03-03T11:15:00,1800,65,40,25,180,6,11,1930,5.1
+4,Reel,2024-03-04T16:45:00,3500,200,150,75,160,8,16,3925,8.9
+5,Photo,2024-03-05T10:30:00,950,35,20,15,140,4,10,1020,3.8
+
